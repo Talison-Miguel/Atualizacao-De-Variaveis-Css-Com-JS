@@ -56,7 +56,7 @@ Este é um repositório contendo um quadro funcional, que atualiza as variáveis
 Para copiar o projeto, utilize os comandos:
 
 ```bash
-  ❯ git clone https://github.com/Talison-Miguel/Update-CSS-Variables---JS.git
+  ❯ git clone https://github.com/Talison-Miguel/Atualizacao-De-Variaveis-Css-Com-JS.git
 ```
 
 ---
